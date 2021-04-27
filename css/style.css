@@ -1,0 +1,726 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sec1{
+    background-image: url(../images/background.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:  0px 574px;
+}
+
+.navbar{
+    overflow: hidden;
+}
+
+.logo{
+    float: left;
+    width: 50%;
+    font-size: 33px;
+    overflow: hidden;
+    padding-top: 52px;
+}
+
+.logo_left{
+    float: left;
+}
+
+.logo_left h3{
+    color: #ed145b;
+    padding-right: 12px;
+    font-family: 'Lato', sans-serif;
+}
+
+.logo_right{
+    float: left;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.link{
+    float: left;
+    padding-left: 383px;
+    width: 50%;
+    box-sizing: border-box;
+    padding-top: 58px;
+}
+
+.link ul{
+    overflow: hidden;
+}
+
+.link ul li{
+    list-style: none;
+    float: left;
+    padding-right: 33px;
+    box-sizing: border-box;
+}
+
+.link ul li a{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+
+.link ul li a:hover{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    text-decoration: none;
+    color:#ed145b;
+}
+
+.sec1 h1{
+    text-align: center;
+    padding-top: 300px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 61px;
+    padding-bottom: 52px;
+    font-weight: 500;
+}
+
+.sec1 h2{
+    border-bottom: 2.5px solid  #ed145b;
+    color: white;
+    width: 266px;
+    margin: 0 auto;
+}
+
+.sec1 p{
+    text-align: center;
+    padding-top: 55px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 29px;
+    line-height: 30px;
+    word-spacing: 7px;
+    padding-bottom: 94px;
+    letter-spacing: 1px;
+}
+
+
+.sec1 h4 {
+    text-align: center;
+    padding-bottom: 240px;
+}
+
+.sec1 h4 a {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding: 25px 60px;
+    background-color: #ed145b;
+    border-radius: 100px;
+    text-decoration: none;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+
+/**************** Section 1 End *****************/
+
+.sec2{
+    background-color: #f4f4f4;
+    padding:  0px 574px;
+    overflow: hidden;
+}
+
+.sec2 h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 38pt;
+    font-style: italic;
+    color: #5a5a5a;
+    padding-top: 201px;
+}
+
+.sec2 h2{
+    border-bottom: 3px solid  #ed145b;
+    color: white;
+    width: 266px;
+    padding-top: 56px;
+}
+
+.sec2 p{
+    padding-top: 61px;
+    width: 625px;
+    font-size: 15pt;
+    font-family: 'Lato', sans-serif;
+    line-height: 28px;
+    color: #5a5a5a;
+    padding-bottom: 55px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.sec2 h3{
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    font-weight: 900;
+    color: #ed145b;
+    letter-spacing: 2px;
+    display: inline;
+}
+
+.line {
+    float: left;
+    padding-top: 11px;
+    padding-bottom: 140px;
+}
+
+.btn{
+   float: left;
+}
+
+
+.sec2 img{
+    width: 36px;
+    padding: 5px 0px 0px 16px;
+}
+
+.s2left{
+    float: left;
+    width: 50%;
+}
+
+.s2right{
+    float: left;
+    width: 50%;
+}
+
+.s2right img{
+    width: 1370px;
+    margin-top: 160px;
+    position: absolute;
+}
+
+/**************** Section 2 End *****************/
+
+.sec3{
+    padding:  0px 574px;
+    overflow: hidden;
+}
+
+.sec3 h1{
+    padding-top: 204px;
+    font-family: 'Lato', sans-serif;
+    font-size: 38pt;
+    font-style: italic;
+    color: #5a5a5a;
+    text-align: center;
+    padding-bottom: 53px;
+}
+
+.sec3 h2{
+    border-bottom: 3px solid  #ed145b;
+    width: 266px;
+    margin: 0 auto;
+}
+
+.sec3 p{
+    padding-top: 54px;
+    text-align: center;
+    font-size: 15pt;
+    font-family: 'Lato', sans-serif;
+    line-height: 28px;
+    color: #5a5a5a;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.s3part h3 {
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    font-weight: 900;
+    color: #ed145b;
+    letter-spacing: 2px;
+    padding-bottom: 150px;
+}
+
+.s3row{
+    overflow: hidden;
+    padding-top: 126px;
+    text-align: center;
+}
+
+.s3part{
+    float:left;
+    width: 25%;
+    margin-left: 0px;
+}
+
+.sec4 h1 img{
+    width: 88px;
+    padding-bottom: 135px;
+}
+
+/**************** Section 3 End *****************/
+
+.sec4{
+    background-image: url(../images/background.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;   
+    padding: 0px 574px;
+    text-align: center;
+}
+
+.sec4 h2 img{
+    padding-top: 132px;
+    padding-bottom: 64px;
+    width: 88px;
+}
+
+.sec4 p{
+    color: #c6c6c6;
+    font-family: 'Lato', sans-serif;
+    font-size: 25pt;
+    font-style: italic;
+    padding-bottom: 76px;
+    line-height: 45px;
+}
+
+.sec4 h1 img{
+    width: 88px;
+}
+
+/**************** Section 4 End *****************/
+
+.sec5{
+    background-color: #f4f4f4;
+    padding: 0px 574px;
+
+}
+
+.s5start h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 38pt;
+    font-style: italic;
+    color: #5a5a5a;
+    padding-top: 194px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.s5start h2{
+    border-bottom: 3px solid  #ed145b;
+    width: 266px;
+    margin: 0 auto;
+}
+
+.s5start p{
+    padding-top: 54px;
+    text-align: center;
+    font-size: 15pt;
+    font-family: 'Lato', sans-serif;
+    line-height: 28px;
+    color: #5a5a5a;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    padding-bottom: 122px;
+}
+
+.s5part{
+    float: left;
+    width: 22%;
+    margin-right:25px;
+    margin-left: 25px;
+}
+
+.s5row{
+    overflow: hidden;
+    padding-bottom: 180px;
+}
+.upper{
+    padding: 42px 125px 72px 125px;
+    background-color: #5a5a5a;
+    text-align: center;
+    color: white;
+}
+
+.upper:hover{
+    padding: 42px 125px 72px 125px;
+    background-color:  #ed145b;
+    text-align: center;
+    color: white;
+}
+
+.upper h1 span{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+    padding-right: 9px;
+}
+
+.upper h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 50pt;
+}
+
+.upper p{
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    font-weight: 900;
+}
+
+.lower{
+    height: 420px;
+    background-color: white;
+    text-align: center;
+}
+
+.lower p{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    line-height: 37px;
+    color: #5a5a5a;
+    letter-spacing: 1px;
+    padding-top: 85px;
+    padding-bottom: 80px;
+}
+
+.lower a{
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    padding:25px 84px;
+    background-color:  #ed145b;
+    border-radius: 80px;
+    letter-spacing: 2px;
+}
+
+/**************** Section 5 End *****************/
+
+.sec6{
+    padding: 0px 574px;
+    font-family: 'Lato', sans-serif;
+}
+
+.s6upper{
+    overflow: hidden;
+    padding-left: 30px;
+    padding-top: 194px;
+    padding-bottom: 113px;
+}
+
+.s6lower {
+    overflow: hidden;
+    padding-left: 30px;
+    padding-bottom: 160px;
+}
+.s6p{
+    float: left;
+    width: 33.33%;
+}
+
+.s6pl{
+    float: left;
+    width:10%
+}
+
+.s6pr{
+    float: left;
+    width: 90%;
+    padding: 0px 50px;
+    box-sizing: border-box;
+}
+
+.sec6 img{
+    width: 78px;
+    padding-right: 31px;
+    padding-top: 10px;
+}
+
+.s6pr h2{
+    font-size: 15pt;
+    color: #ed145b;
+    padding-bottom: 40px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    font-weight: 900;
+}
+
+.s6pr p{
+    font-size: 15pt;
+    line-height: 30px;
+    color: #5a5a5a;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+/**************** Section 6 End *****************/
+
+.sec7{
+    padding: 0px 574px;
+    background-color: #ed145b;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+}
+
+.sec7 h1{
+    font-size: 38pt;
+    font-weight: 300;
+    padding-top: 105px;
+    padding-right: 70px;
+    padding-left: 40px;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    padding-bottom: 105px;
+}
+
+.sec7 span{
+    font-weight: 900;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+} 
+
+.sec7 a{
+    color:#ed145b;
+    background-color: white;
+    padding: 25px 97px;
+    text-decoration: none;
+    font-size: 15pt;
+    font-weight: 900;
+    border-radius: 50px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.s7left{
+    float: left;
+    padding-left: 30px;
+}
+
+.s7right{
+    float: left;
+    padding-top: 125px;
+}
+
+/**************** Section 7 End *****************/
+
+.sec8{
+    padding: 0px 574px;
+    font-family: 'Lato', sans-serif;
+}
+
+.s8start h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 38pt;
+    font-style: italic;
+    color: #5a5a5a;
+    padding-top: 194px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.s8start h2{
+    border-bottom: 3px solid  #ed145b;
+    width: 266px;
+    margin: 0 auto;
+}
+
+.s8start p{
+    padding-top: 54px;
+    text-align: center;
+    font-size: 15pt;
+    font-family: 'Lato', sans-serif;
+    line-height: 28px;
+    color: #5a5a5a;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    padding-bottom: 127px;
+}
+
+.s8upper{
+    overflow: hidden;
+}
+
+.s8lower{
+    overflow: hidden;
+    padding-bottom: 194px;
+}
+
+.s8up{
+    width: 30%;
+    float: left;
+    box-sizing: border-box;
+    margin-right: 20px;
+    margin-top: 40px;
+    background-color: #f4f4f4;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.sec8 img{
+    width: 100%;
+}
+
+
+.s8up h1{
+    font-size: 15pt;
+    color: #5a5a5a;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    padding-top: 37px;
+    padding-bottom: 41px;
+    padding-left: 26px;
+}
+
+.s8up p{
+    font-size: 15pt;
+    line-height: 30px;
+    color: #5a5a5a;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    padding-bottom: 36px;
+    padding-left: 26px;
+    padding-right: 26px;
+}
+
+/**************** Section 8 End *****************/
+
+.sec9{
+    background-image: url(../images/background.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:  0px 574px;
+    color: white;
+    text-align: center;
+    padding-bottom: 196px;
+}
+
+.sec9 h1{
+    padding-top: 196px;
+    font-family: 'Lato', sans-serif;
+    font-size: 38pt;
+    font-style: italic;
+    padding-bottom: 53px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    color: #c6c6c6;
+}
+
+.sec9 h2{
+    border-bottom: 3px solid  #ed145b;
+    margin: 0 auto;
+    width: 266px;
+}
+
+.sec9 p{
+    padding-top: 52px;
+    color:  #c6c6c6;
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    font-style: italic;
+    padding-bottom: 103px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.sec9 a{
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    padding:25px 80px;
+    background-color:  #ed145b;
+    border-radius: 80px;
+    letter-spacing: 2px;
+}
+
+/**************** Section 9 End *****************/
+
+.sec10{
+    padding: 0px 100px;
+    background-color: #f4f4f4;
+    overflow: hidden;
+}
+
+.s10left{
+    float: left;
+    width: 50%;
+}
+
+.s10right{
+    float: left;
+    width: 50%;
+}
+
+.sec10 img{
+    width: 1097px;
+    padding-top: 80px;
+    padding-left: 180px;
+    padding-bottom: 80px;
+}
+
+.s10right h1{
+    padding-top: 200px;
+    font-family: 'Lato', sans-serif;
+    font-size: 38pt;
+    font-style: italic;
+    padding-bottom: 45px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    color: #8a8a8a;
+}
+
+.s10right h2{
+    border-bottom: 3px solid  #ed145b;
+    width: 266px;
+}
+
+.s10right p{
+    width: 700px;
+    padding-top: 66px;
+    color: #808080;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+    padding-bottom: 105px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
+
+.s10right a{
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    padding:25px 80px;
+    background-color:  #ed145b;
+    border-radius: 80px;
+    letter-spacing: 2px;
+}
+
+/**************** Section 10 End *****************/
+
+.sec11{
+    background-color: #2b2b2b;
+}
+
+.sec11 h1{
+    font-family: 'Lato', sans-serif;
+    font-size: 30pt;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    letter-spacing: 3px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+/**************** Section 11 End *****************/
+/*###############################################*/
